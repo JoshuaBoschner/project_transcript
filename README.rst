@@ -1,2 +1,1 @@
-An RST file is a technical documentation file format, used primarily in the Python programming community.
-It is a text file written in the reStructuredText markup language that applies styles and formatting to plain text documents for generation of documentation.
+(WIP) Simple pyhton script to load youtube transcript and save to txt file.
